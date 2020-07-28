@@ -11,3 +11,6 @@ Problem statements
 3.SearchInsertPosition - https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3356/
 
 4.SortColors - https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3357/
+
+5.SingleNumber - https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/
+
